@@ -1,7 +1,7 @@
 # 🕒 Analog Clock (Responsive Web App)
 
 
-<h3>LIVE DEMO:-  md-raquib-hussain90.github.io/Analog-Clock/ </h3>
+<h3>LIVE DEMO:-  https://md-raquib-hussain90.github.io/Analog-Clock/ </h3>
 ## 📌 Description
 This is a simple and responsive **Analog Clock** built using HTML, CSS, and JavaScript.  
 It displays real-time hours, minutes, and seconds with smooth rotation of clock hands.
